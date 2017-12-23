@@ -16,7 +16,6 @@ import { CoreModule } from './core/core.module';
 import { SharedModule } from './shared/shared.module';
 
 import { HomeModule } from './home/home.module';
-import { AboutModule } from './about/about.module';
 import { LoginModule } from './login/login.module';
 import { ShowroomModule } from './showroom/showroom.module';
 
@@ -33,7 +32,6 @@ import { ShowroomModule } from './showroom/showroom.module';
     CoreModule,
     SharedModule,
     HomeModule,
-    AboutModule,
     LoginModule,
     ShowroomModule,
     AppRoutingModule
