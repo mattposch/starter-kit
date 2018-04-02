@@ -11,4 +11,10 @@ export const environment = {
     'fr-FR'
   ],
   foo: 'bar2',
+  mail: {
+    apikey:     'POSTMARK_API_TEST',
+    domain:     'tubics.com',
+    enabled:    true,
+    sender:     'no-reply@tubics.com',
+  }
 };

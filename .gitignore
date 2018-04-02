@@ -47,8 +47,8 @@ npm-debug.log
 testem.log
 /typings
 /reports
-/src/translations/template.*
-/src/environments/*
+/src/translations/template.*.
+/src/environments/environment.*.ts
 
 # E2E
 /e2e/*.js
