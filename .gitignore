@@ -48,7 +48,7 @@ testem.log
 /typings
 /reports
 /src/translations/template.*.
-/src/environments/environment.*.ts
+/src/environments/*
 
 # E2E
 /e2e/*.js
